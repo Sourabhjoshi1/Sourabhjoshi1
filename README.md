@@ -53,8 +53,8 @@ Stay tuned for upcoming projects and publications in these areas!
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhjyoshi1&show_icons=true&theme=dark&hide_title=true&hide=stars" alt="Sourabh's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhjyoshi1&layout=compact&theme=dark&hide_title=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhjoshi1&show_icons=true&theme=dark&hide_title=true&hide=stars" alt="Sourabh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhjoshi1&layout=compact&theme=dark&hide_title=true" alt="Top Languages"/>
 </p>
 
 ---
