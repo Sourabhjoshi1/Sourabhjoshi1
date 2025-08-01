@@ -39,14 +39,9 @@ As an Electrical Engineer and a curious learner, I'm passionate about leveraging
 
 ---
 
-### 📈 Current Focus
-
-Currently, I'm deeply engaged in research on **novel DC-DC converter topologies** aimed at achieving higher efficiency and power density for emerging applications. I'm particularly interested in:
-* **Bidirectional high-gain DC-DC converters** for EV fast charging and battery energy storage systems.
-* Leveraging **Wide Bandgap (SiC/GaN) devices** to push switching frequencies and reduce passive component sizes.
-* Applying **advanced control strategies** (e.g., Model Predictive Control) for improved dynamic performance and resilience.
-
-Stay tuned for upcoming projects and publications in these areas!
+### 📈 Current Focus:
+Exploring innovative solutions across AI, Power Electronics, and Protein Folding. 
+Stay tuned for upcoming projects, publications, and open-source contributions in these areas!
 
 ---
 
