@@ -64,6 +64,6 @@ Stay tuned for upcoming projects and publications in these areas!
 I'm always open to discussing new ideas, collaborations, or research opportunities in power electronics, data science, or even chess! Feel free to reach out.
 
 📧 **Email:** joshisourabh47@gmail.com
-🔗 **LinkedIn:** [https://www.linkedin.com/in/sourabhkjoshi](https://www.linkedin.com/in/sourabhk_nitb)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sourabhk_nitb](https://www.linkedin.com/in/sourabhk_nitb)
 
 ---
