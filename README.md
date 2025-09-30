@@ -1,64 +1,56 @@
-# Sourabhjoshi1
+# Sourabh K. Joshi  
+
 <div align="center">
 
-# Hi there, I'm Sourabh K. Joshi! 👋
+### ⚡ Power Electronics | ⚙ Data Science | 🧬 AI for Energy & Biology  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sourabhkjoshi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="https://www.researchgate.net/profile/YOUR_RESEARCHGATE_ID" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-23A566?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
-  </a>
-  <a href="https://www.chessdepth.in" target="_blank">
-    <img src="https://img.shields.io/badge/ChessDepth.in-orange?style=for-the-badge&logo=chess&logoColor=white" alt="ChessDepth.in">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhk_nitb)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&hl=en)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-23A566?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_ID)  
+[![ChessDepth](https://img.shields.io/badge/ChessDepth.in-orange?style=flat&logo=chess&logoColor=white)](https://www.chessdepth.in)  
 
 </div>
 
 ---
 
-### 🚀 Innovating at the Intersection of Data Science & Power Electronics
+### 🚀 About Me  
+I am an Electrical Engineer specializing in **Power Electronics and Data-Driven Control Systems**, with a strong interest in **AI applications for energy systems and computational biology**.  
 
-As an Electrical Engineer and a curious learner, I'm passionate about leveraging data-driven insights to design, optimize, and control next-generation power converters. My goal is to build efficient, intelligent, and robust energy systems for a sustainable future.
+My work focuses on:  
+- **High-Efficiency DC–DC Converters & Inverters**  
+- **AI-Based State-of-Charge / Health Estimation for Batteries**  
+- **Simulation & Optimization** (MATLAB, PSIM, LTSpice, PLECS)  
+- **Bio-Inspired Algorithms for Deep Learning & Protein Folding**  
 
----
-
-### 💡 My Expertise
-
-| Category           | Skills & Technologies                                                                                                 |
-| :----------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| **Power Electronics** | <img src="https://img.shields.io/badge/DC--DC_Converters-blue?style=flat-square" alt="DC-DC Converters"> <img src="https://img.shields.io/badge/Inverters-blue?style=flat-square" alt="Inverters"> <img src="https://img.shields.io/badge/Topology_Design-blue?style=flat-square" alt="Topology Design"> <img src="https://img.shields.io/badge/Control_Strategies-blue?style=flat-square" alt="Control Strategies"> <img src="https://img.shields.io/badge/Soft--Switching-blue?style=flat-square" alt="Soft-Switching"> <img src="https://img.shields.io/badge/SiC/GaN_Devices-blue?style=flat-square" alt="SiC/GaN Devices"> |
-| **Simulation** | <img src="https://img.shields.io/badge/MATLAB/Simulink-red?style=flat-square&logo=matlab" alt="MATLAB/Simulink"> <img src="https://img.shields.io/badge/PSIM-green?style=flat-square" alt="PSIM"> <img src="https://img.shields.io/badge/LTSpice-purple?style=flat-square" alt="LTSpice"> <img src="https://img.shields.io/badge/PLECS-orange?style=flat-square" alt="PLECS"> |
-| **Data Science** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/Data_Analysis-darkgreen?style=flat-square" alt="Data Analysis"> <img src="https://img.shields.io/badge/Forecasting-lightblue?style=flat-square" alt="Forecasting"> |
-| **Other Skills** | <img src="https://img.shields.io/badge/PCB_Design-brightgreen?style=flat-square" alt="PCB Design"> <img src="https://img.shields.io/badge/Git/GitHub-181717?style=flat-square&logo=github" alt="Git/GitHub"> <img src="https://img.shields.io/badge/Research_&_Publishing-blueviolet?style=flat-square" alt="Research & Publishing"> |
+I aim to **bridge engineering with data science**, creating scalable solutions for a sustainable and technology-driven future.  
 
 ---
 
-### 📈 Current Focus:
-Exploring innovative solutions across AI, Power Electronics, and Protein Folding. 
-Stay tuned for upcoming projects, publications, and open-source contributions in these areas!
+### 🔬 Expertise  
+
+- **Power Electronics** → Converter & Inverter Design, Control, SiC/GaN Devices, Soft-Switching  
+- **Simulation Tools** → MATLAB/Simulink, PSIM, LTSpice, PLECS  
+- **Data & AI** → Python, Machine Learning, Forecasting, Data Analysis  
+- **Engineering Skills** → PCB Design, Git/GitHub, Research & Publishing  
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 Current Focus  
+- **Smart Microgrids** with AI-driven battery management  
+- **Bio-Inspired Optimization** for deep learning  
+- **Cross-disciplinary research** at the interface of electronics, AI, and biology  
+
+---
+
+### 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhjoshi1&show_icons=true&theme=dark&hide_title=true&hide=stars" alt="Sourabh's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhjoshi1&layout=compact&theme=dark&hide_title=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhjoshi1&show_icons=true&theme=default&hide=stars&hide_title=true&count_private=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhjoshi1&layout=compact&theme=default&hide_title=true" height="160">
 </p>
 
 ---
 
-### 🤝 Let's Connect!
-
-I'm always open to discussing new ideas, collaborations, or research opportunities in power electronics, data science, or even chess! Feel free to reach out.
-
-📧 **Email:** joshisourabh47@gmail.com
-🔗 **LinkedIn:** [https://www.linkedin.com/in/sourabhk_nitb](https://www.linkedin.com/in/sourabhk_nitb)
-
----
+### 🤝 Let’s Connect  
+📧 **Email:** joshisourabh47@gmail.com  
+🔗 **LinkedIn:** [Sourabh K. Joshi](https://www.linkedin.com/in/sourabhk_nitb)  
