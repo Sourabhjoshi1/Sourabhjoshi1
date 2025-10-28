@@ -1,10 +1,10 @@
 # Sourabh K. Joshi  
 
-### ⚡ Power Electronics | ⚙ Data Science | 🧬 AI for Energy & Biology  
+###  Power Electronics | Data Science |  AI for Energy & Biology  
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 I am an Electrical Engineer specializing in **Power Electronics and Data-Driven Control Systems**, with a strong interest in **AI applications for energy systems and computational biology**.  
 
 I focus on:  
@@ -17,7 +17,7 @@ My goal is to **bridge engineering with data science** to create sustainable, in
 
 ---
 
-### 🔬 Expertise  
+###  Expertise  
 
 - **Power Electronics** → Converter & Inverter Design, Control, SiC/GaN Devices  
 - **Simulation Tools** → MATLAB/Simulink, PSIM, LTSpice, PLECS  
@@ -26,14 +26,14 @@ My goal is to **bridge engineering with data science** to create sustainable, in
 
 ---
 
-### 📈 Current Focus  
+###  Current Focus  
 - AI-driven solutions for **Smart Microgrids**  
 - **Bio-Inspired Optimization** for deep learning models  
 - Cross-disciplinary research at the **intersection of electronics, AI, and biology**  
 
 ---
 
-### 🔗 Connect with Me  
+###  Connect with Me  
 
 - **LinkedIn:** [Sourabh K. Joshi](https://www.linkedin.com/in/sourabhk_nitb)  
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&hl=en)  
