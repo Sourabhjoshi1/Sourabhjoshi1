@@ -35,7 +35,7 @@ My goal is to **bridge engineering with data science** to create sustainable, in
 
 ###  Connect with Me  
 
-- **LinkedIn:** [Sourabh K. Joshi](https://www.linkedin.com/in/sourabhk_nitb)  
+- **LinkedIn:** [Sourabh K. Joshi](https://www.linkedin.com/in/sourabhk-nitb)  
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&hl=en)  
 - **ResearchGate:** [Profile](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_ID)  
 - **ChessDepth:** [www.chessdepth.in](https://www.chessdepth.in)  
