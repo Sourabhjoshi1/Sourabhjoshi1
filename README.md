@@ -1,6 +1,6 @@
 # Sourabh K. Joshi  
 
-###  Power Electronics | Data Science |  AI for Energy & Biology  
+###  Power Electronics | Data Science |  
 
 ---
 
