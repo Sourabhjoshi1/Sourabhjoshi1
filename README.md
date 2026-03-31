@@ -1,7 +1,7 @@
 # Sourabh K. Joshi  
 
 ###  About Me  
-I am an Electrical Engineer specializing in **Power Electronics and Data-Driven Control Systems**, with a strong interest in **AI applications for energy systems*.  
+I am an Electrical Engineer specializing in **Power Electronics and Data-Driven Control Systems**, with a strong interest in **AI applications for energy systems**.  
 
 I focus on:  
 - **High-Efficiency DC–DC Converters & Inverters**  
