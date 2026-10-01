@@ -1,38 +1,34 @@
-# Sourabh K. Joshi  
+# Hi, I'm Sourabh K. Joshi 👋
 
-###  About Me  
-I am an Electrical Engineer specializing in **Power Electronics and Data-Driven Control Systems**, with a strong interest in **AI applications for energy systems**.  
+**Electrical Engineer | Power Electronics Researcher | PhD Scholar @ IIT Roorkee**
 
-I focus on:  
-- **High-Efficiency DC–DC Converters & Inverters**  
-- **AI-Based Battery Management (SOC & SOH Estimation)**  
-- **Simulation & Optimization** (MATLAB, PSIM, LTSpice, PLECS)
+I work on **Power Electronics, Wide-Bandgap Semiconductors, High-Frequency Converters, and Intelligent Energy Systems**.
 
-My goal is to **bridge engineering with data science** to create sustainable, intelligent, and future-ready technologies.  
+### ⚡ Interests
 
----
+* GaN/SiC Power Electronics
+* DC–DC Converters & Inverters
+* High-Frequency Magnetics
+* Converter Control & Protection
+* AI/ML for Battery & Energy Systems
+* PCB Design & Hardware Implementation
 
-###  Expertise  
+### 🛠️ Tools
 
-- **Power Electronics** → Converter & Inverter Design, Control, SiC/GaN Devices  
-- **Simulation Tools** → MATLAB/Simulink, PSIM, LTSpice, PLECS  
-- **Data & AI** → Python, Machine Learning, Forecasting, Data Analysis  
-- **Engineering Skills** → PCB Design, Git/GitHub, Research & Publishing  
+`MATLAB/Simulink` · `PLECS` · `LTspice` · `PSIM` · `Python` · `C` · `TI C2000` · `Git`
 
----
+### 🔬 Current Research
 
-###  Current Focus  
-- AI-driven solutions for **Smart Microgrids**  
-- **Bio-Inspired Optimization** for deep learning models  
-- Cross-disciplinary research at the **intersection of electronics, AI, and biology**  
+**GaN-based High-Voltage Electronic Power Conditioner for Aerospace TWTA Applications**
 
----
+> **Theory → Simulation → Hardware → Experimental Validation**
 
-###  Connect with Me  
+### 🌐 Connect
 
-- **LinkedIn:** [Sourabh K. Joshi](https://www.linkedin.com/in/sourabhk-nitb)  
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&hl=en)  
-- **ResearchGate:** [Profile](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_ID)  
-- **ChessDepth:** [www.chessdepth.in](https://www.chessdepth.in)  
-- **Email:** joshisourabh47@gmail.com
-- **Portfolio:** https://sourabhjoshi.info/
+[LinkedIn](https://www.linkedin.com/in/sourabhk-nitb) ·
+[Portfolio](https://sourabhjoshi.info/) ·
+[ChessDepth](https://www.chessdepth.in) ·
+[Google Scholar](https://scholar.google.com/) ·
+[ResearchGate](https://www.researchgate.net/)
+
+📧 **[joshisourabh47@gmail.com](mailto:joshisourabh47@gmail.com)**
